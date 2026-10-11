@@ -1,0 +1,17 @@
+{
+    "type": "content",
+    "modid": "mappermapnocompass",
+    "name": "Mapper Map No Compass",
+    "authors": [
+        "gnegnol"
+    ],
+    "description": "A patch for mapper to remove the use of a compass for maps",
+    "version": "0.0.1",
+    "requiredOnClient": false,
+    "side": "server",
+    "website": "",
+    "dependencies": {
+        "survival": "1.22.0-rc.3",
+        "mapper": "0.5.2"
+    }
+}
