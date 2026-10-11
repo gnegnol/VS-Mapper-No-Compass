@@ -13,5 +13,6 @@
     "dependencies": {
         "survival": "1.22.0-rc.3",
         "mapper": "0.5.2"
-    }
+    },
+    "website": "https://github.com/gnegnol/VS-Mapper-No-Compass"
 }
