@@ -6,7 +6,7 @@
         "gnegnol"
     ],
     "description": "A patch for mapper to remove the use of a compass for maps",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "requiredOnClient": false,
     "side": "server",
     "website": "",
